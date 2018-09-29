@@ -1,0 +1,5 @@
+Using bluetooth module HC-05 and mobile app called 'Arduino bluetooth control' for controlling lights, fans and any electric divices with voice commands from phone.
+
+Arduino can only provide 5V output voltage so you need to use 5V relay switch to play with AC current devides!
+
+(Link for app: https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree)

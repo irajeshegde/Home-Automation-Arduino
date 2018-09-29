@@ -1,0 +1,2 @@
+Arduino Uno + GSM module to do any task just by sending a text message from a perticular phone number (Written in code) .
+Also if any text messages are received from other phone numbers, report to admin with unknown phone number and message content sent to GSM by unknown number.

@@ -1,0 +1,6 @@
+It's a simpel bot with arduino chassis (two motors). 
+Using voice command from mobile (connected to arduino by bluetooth) we can control the movements of bot.
+This would be helpful for physically disabled people (and also old people)
+
+HC-05 Bluetooth module used
+(Link for app: https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree)
